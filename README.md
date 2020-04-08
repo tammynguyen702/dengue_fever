@@ -1,6 +1,6 @@
 # Dengue Fever - Term Project
 
-Challenge question: *Using environmental data collected by various U.S. Federal Government agencies, can you predict the number of dengue fever cases reported each week in San Juan, Puerto Rico and Iquitos, Peru?*
+Challenge question: *What attributes are correlated with the number of Dengue fever cases in a city?*
 
 [Link to the original competition details and dataset](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/page/80/)
 
