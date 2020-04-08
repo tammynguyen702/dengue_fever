@@ -1,6 +1,6 @@
 # Dengue Fever - Term Project
 
-Challenge question: *What attributes are correlated with the number of Dengue fever cases in a city?*
+Challenge question: *What attributes are correlated with the number of Dengue fever cases in a city within a given year?*
 
 [Link to the original competition details and dataset](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/page/80/)
 
